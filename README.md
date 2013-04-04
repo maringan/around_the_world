@@ -21,7 +21,7 @@ now you can run the server:
 server should run on port 10000
 
 ## Usage
-When server is running, you can connect to server thorught telnet client:
+When server is running, you can connect to server thorugh telnet client:
 ```
   telnet 0 10000
 ```
